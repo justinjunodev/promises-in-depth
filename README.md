@@ -1,4 +1,4 @@
-# Simple Starter
+# JavaScript Promises in Depth
 
 Brushing up on JavaScript fundamentals with Egghead's [JavaScript Promises in Depth](https://egghead.io/courses/javascript-promises-in-depth) course by Marius Schulz.
 
