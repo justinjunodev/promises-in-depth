@@ -1,7 +1,7 @@
 {
-  "name": "simple-starter",
+  "name": "promises-in-depth",
   "version": "1.0.0",
-  "description": "A minimal starter for exploring ideas and learning new concepts!",
+  "description": "Brushing up on JavaScript fundamentals with Egghead's JavaScript Promises in Depth course.",
   "main": "index.js",
   "scripts": {
     "start": "snowpack dev",
